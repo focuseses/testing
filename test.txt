@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 hello i (you mean me) edited on the local file. 
 This is another user speaking. I edited your chunk haha!!
+=======
+hello i just edited on the local file. 
+me makes funny changes by myself! 
+>>>>>>> Stashed changes
